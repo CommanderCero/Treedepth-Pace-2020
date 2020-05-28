@@ -1,0 +1,1 @@
+tar -czvf ../StrategicSolver.tgz *
