@@ -7,5 +7,5 @@
 
 int main();
 
-#define SUBMISSION 0
+#define SUBMISSION 1
 void sigtermHandler(int signum);
