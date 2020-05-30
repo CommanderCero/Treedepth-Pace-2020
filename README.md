@@ -7,6 +7,7 @@ Note that we do not have a proof of correctness for solving small graphs optimal
 
 # Installation
 The folder 'solver' contains the source code. The folder also contains a CMakeLists.txt to compile the source code.
+Running CMake will output a executable with the name "StrategicSolver", hence when submitting to PACE the folder 'solver' has to be a .tgz named "StrategicSolver.tgz".
 
 # Requirements
 To run the program boost needs to be installed.
